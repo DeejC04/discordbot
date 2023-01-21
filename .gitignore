@@ -1,0 +1,4 @@
+# Ignores environment variable file
+
+.env
+
