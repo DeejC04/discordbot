@@ -4,7 +4,7 @@
 
 ## What does this bot do?  
 
-In its current state, it is very barebones. Its abilities (or should I say, singular ability), are limited to allowing a user to join a designated voice channel, and then have a "personal" channel created for them. The user is then moved into that channel.
+In its current state, it is very barebones. Its abilities (or should I say, singular ability), are limited to allowing a user to join a designated voice channel, and then have a "personal" channel created for them. The user is then moved into that channel. Once all users leave the channel, it will be deleted.
 
 ## Usage
 
